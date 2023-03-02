@@ -1,0 +1,1 @@
+document.getElementsByTagName("body")[0].style.fontSize = "4vw";
