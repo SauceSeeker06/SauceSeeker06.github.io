@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'allerregular';
-    src: url('aller_rg-webfont.woff2') format('woff2'),
-         url('aller_rg-webfont.woff') format('woff');
+    src: url('sauceseeker06.github.io/aller_rg-webfont.woff2') format('woff2'),
+         url('sauceseeker06.github.io/aller_rg-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'halogenregular';
-    src: url('halogen-webfont.woff2') format('woff2'),
-         url('halogen-webfont.woff') format('woff');
+    src: url('sauceseeker06.github.io/halogen-webfont.woff2') format('woff2'),
+         url('sauceseeker06.github.io/halogen-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'damagrafik_scriptregular';
-    src: url('y3-webfont.woff2') format('woff2'),
-         url('y3-webfont.woff') format('woff');
+    src: url('sauceseeker06.github.io/y3-webfont.woff2') format('woff2'),
+         url('sauceseeker06.github.io/y3-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
